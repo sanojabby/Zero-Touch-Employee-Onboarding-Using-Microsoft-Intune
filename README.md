@@ -29,6 +29,8 @@ Create employee accounts in Microsoft Entra ID.
 Assign appropriate Microsoft 365 licenses.
 Organize users into department-based groups.
 Assign devices and deployment profiles according to employee roles.
+<img width="1920" height="1080" alt="Screenshot 2026-10-04 at 22 00 08 (2)" src="https://github.com/user-attachments/assets/5b9c7c9e-7a03-4e0b-9be4-76d2834cd531" />
+
 Step 4 — Configure Deployment Profiles
 Configure Windows Autopilot user-driven deployment.
 Apply organization-specific Out-of-Box Experience (OOBE) settings.
