@@ -36,6 +36,7 @@ Configure Windows Autopilot user-driven deployment.
 Apply organization-specific Out-of-Box Experience (OOBE) settings.
 Configure Microsoft Entra ID join.
 Enable automatic Intune enrollment.
+<img width="1792" height="1120" alt="Screenshot 2026-11-17 at 16 01 58" src="https://github.com/user-attachments/assets/1c37799d-0a30-409a-bf43-92bd55e8acaf" />
 Step 5 — Security and Configuration
 Deploy security configuration profiles.
 Configure BitLocker encryption.
